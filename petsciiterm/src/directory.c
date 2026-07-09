@@ -39,8 +39,8 @@ static struct _directory
 {
     {"BBS RetroCampus", "TELNET://BBS.RETROCAMPUS.COM:6510/"},
     {"Boar's Head Tavern", "TELNET://BYOB.HOPTO.ORG:64128"},
-    {"13TH FLOOR BB3", "TELNET://13TH.HOYVISION.COM:6400"},
-    {"C64 Wordle", "TELNET://WORDLE64.MYWIRE.ORG:8877"}
+    {"13TH FLOOR BBS", "TELNET://13TH.HOYVISION.COM:6400"},
+    {"The Oasis BBS", "TELNET://OASISBBS.HOPTO.ORG:6400"}
 };
 
 /**
